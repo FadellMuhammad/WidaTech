@@ -1,0 +1,19 @@
+.home {
+    .sidebar {
+        background-color: rgba(0, 0, 0, 0.836);
+        height: 100%;
+        width: 250px;
+        position: fixed;
+
+        .sidebar-button {
+            padding-top: 30px;
+
+            .ant-btn {
+                width: 150px;
+                height: 50px;
+                margin: 20px 50px;
+                font-size: 17px;
+            }
+        }
+    }
+}

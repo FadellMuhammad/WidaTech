@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "title": "Rapat",
+      "location": "Jakarta",
+      "participant": "Fadel",
+      "date": "2022-03-16",
+      "note": "-",
+      "id": 1
+    },
+    {
+      "title": "Kegiatan",
+      "location": "palembang",
+      "participant": "-",
+      "date": "2022-03-31",
+      "note": "-",
+      "id": 2
+    }
+  ]
+}
